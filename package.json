@@ -1,0 +1,9 @@
+{
+  "name": "tiga",
+  "version": "0.0.1",
+  "description": "将koa作为基础框架，并在它的模型基础上，进一步对它进行一些加强。'",
+  "main": "index.js",
+  "repository": "git@github.com:honghaibin/tiga.git",
+  "author": "zyaire hong",
+  "license": "MIT"
+}
